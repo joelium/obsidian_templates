@@ -2,7 +2,7 @@
 categories:
   - "[[Web Articles]]"
 tags:
-  - #articles
+  - articles
 author: []
 url: ""
 published:
